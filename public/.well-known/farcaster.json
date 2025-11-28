@@ -21,10 +21,11 @@
     "allowedAddresses": [
       "0xa98FeB81794895160EefC5271475414632113954"
     ]
-  },
+{
   "accountAssociation": {
-    "header": "eyJmaWQiOjM3NjE4MSwidHlwZSI6ImF1dGgiLCJrZXkiOiIweDIwMDJBOTNlYzU4ZDI4ZEE3QzlEZDM1QTkwOTI1YTIxYUY1MDg0MDUifQ",
-    "payload": "eyJkb21haW4iOiJzYWRkbGUtcG9zc2libGUtNjMyLmFwcC5vaGFyYS5haSJ9",
-    "signature": "AcBInXxjyC0YrzXIGkhtnoVdTrh7hX+SJi+XwxGs7y1ww+h+q6YRLYDfP+dmLVStQnotcdKcG8D5Dal3OlpkWRw="
+    "header": "eyJmaWQiOjM3NjE4MSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweENCODUxZWJDNDNjOWZlYWRBNzk2MkNiOUE3Nzk4OUU4MjlGNDUyNTcifQ",
+    "payload": "eyJkb21haW4iOiJ2b2x0cGFja3MueHl6In0",
+    "signature": "OtvJt6gmSBE9YFW74Z8MQaoniY0+AeSbTbuQ7opJe8Qp0LsdTvIax+3apHb8bvizAbB17zVthu+ocQdyB5YhhBs="
   }
+}
 }
